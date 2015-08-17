@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Unicode Class en CSS 3</title>
+    <title>Aplicar Propiedades CSS a un Caracter Unicode</title>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">    
@@ -17,7 +17,7 @@
   <body>
     <div class="container">
 
-      <h1 align="center">Unicode Class en CSS 3</h1>
+      <h1 align="center">Aplicar Propiedades CSS a un Caracter Unicode</h1>
 
       <div class="row" align="center">
         
@@ -82,9 +82,7 @@
         </div>
 
       </div>
-
-      <p>Puedes seleccionar otros caracteres en: <a href="http://apps.timwhitlock.info/emoji/tables/unicode">www.apps.timwhitlock.info/emoji/tables/unicode</a></p>
-
+      
     </div>
 
     <br>
